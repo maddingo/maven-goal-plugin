@@ -1,4 +1,7 @@
 # maven-goal-plugin
+
+[![Build Status](https://travis-ci.org/maddingo/maven-goal-plugin.png)](https://travis-ci.org/maddingo/maven-goal-plugin)
+
 Maven Plugin to execute a Maven goal depending on certain criteria
 
 On a CI server you want to execute maven with a different goal depending on the current branch or other criteria. 
